@@ -1,1 +1,2 @@
+Project Description-
 The WebMenu-Cloud Platform is an innovative web-based solution that harnesses the power of AWS EC2, AJAX, OpenAI chatbot, Langchain, cloud services, Docker, HTML, and CSS to create a dynamic and user-friendly menu-driven interface. This platform simplifies user interactions, provides intelligent responses through chatbot integration, utilizes cloud resources efficiently, and ensures seamless application deployment.
