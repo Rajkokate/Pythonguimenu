@@ -1,2 +1,1 @@
-# Pythonguimenu
-Basically it is web-based menu and tkinter gui based which give harness the power of AWS,Ajax , docker , HTML, langchain , openAI model ,other cloud services and css to create dynamic user interface . this platform simplifies user interaction with different application and their services.
+The WebMenu-Cloud Platform is an innovative web-based solution that harnesses the power of AWS EC2, AJAX, OpenAI chatbot, Langchain, cloud services, Docker, HTML, and CSS to create a dynamic and user-friendly menu-driven interface. This platform simplifies user interactions, provides intelligent responses through chatbot integration, utilizes cloud resources efficiently, and ensures seamless application deployment.
